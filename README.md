@@ -1,4 +1,4 @@
-# Backrooms-Level-0-Data-Protection-Policy-
+# Backrooms-Level-0-Data-Protection-Policy
 Welcome to the Backrooms Level 0 app for Android!
 
 This is an open source Android app developed by Ömer Özkul. The app is available on Google Play.
